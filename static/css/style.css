@@ -1,0 +1,32 @@
+.page-header {
+    text-align: center;
+}
+
+#filters {
+    position: flex;
+    text-align: left;
+    background-color: white
+}
+#graph {
+    position: flex;
+    text-align: center;
+    background-color: white
+}
+
+#mapid {
+   position: flex;
+   text-align: center;
+   background-color: white;
+   height: 250px;
+}
+
+#picture {
+    position: flex;
+    text-align: center;
+    background-color: white
+}
+
+#body {
+    background: "../images/paper.gif)";
+}
+   
