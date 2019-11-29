@@ -1,4 +1,4 @@
-# Out Personal Pet Project
+# Our Personal Pet Project
 The repo contains:
 1. A Jupyter Notebook which accesses an open api, merges that data with existing data in a CSV, and used Pandas to push that data into a local Postgres database;
 2. The SQL statements necessary to create tables in a Postgres data to load the data into;
